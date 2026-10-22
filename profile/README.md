@@ -93,8 +93,9 @@ an autonomous agent that acts without permission.
 Arteamis keeps a hard boundary between the client and the brain.
 
 ```text
-Desktop app   local-first Personal Brain, Local Vault, private source
-              notebook, local files and indexing, local agent/MCP bridge
+Desktop app   macOS shell around the web app: tray, private native
+              notifications and a local Code host (internal builds).
+              The local-first Personal Brain and Local Vault are planned
 
 Web app       team workspace, Company Brain, review, decisions, work,
               dashboards, admin
